@@ -38,7 +38,7 @@ function preload() {
   song = loadSound("blaster.mp3");
   aipayee = loadSound("aipayee.mp4");
  // gameover = loadImage("gameover.png");
-  logoImage = loadImage("royalshooterslogo.png");
+  logoImage = loadImage("Royalshooterslogo.png");
   //starttImage = loadImage("finallypng.png");
   song2 = loadSound("newsongtoday.mp3");
   game3Image = loadImage("2rocket.png")
